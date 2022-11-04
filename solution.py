@@ -86,9 +86,6 @@ class Solver:
                 distance -= 1
         return distance / 3
     
-
-    
-    
     
     def heuristic2(self, node):
 
